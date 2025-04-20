@@ -1,4 +1,4 @@
-# [Christopher J Cox, PhD]
+# Christopher J Cox, PhD
 
 Cryospheric and atmospheric scientist with expertise in observations and physics-based modeling, 
 specializing in coupled air-surface interactions, turbulence, radiation, and cloud processes within 
