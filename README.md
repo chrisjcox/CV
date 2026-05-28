@@ -4,9 +4,7 @@ Cryospheric and atmospheric scientist with expertise in observations and physics
 specializing in coupled air-surface interactions, turbulence, radiation, and cloud processes within 
 the troposphere and boundary layer. Versed in statistical modeling, fluid dynamics, radiative and heat transfer, 
 and instrumentation. Experienced in designing and executing field experiments, acquiring high-quality 
-environmental data, and performing integrated analysis across disciplines. Currently expanding skill set 
-in machine learning and data-driven methodologies with an eye toward applying these tools in climate and 
-environmental data science.
+environmental data, and performing integrated analysis across disciplines.
 
 ## Core competencies:
 
